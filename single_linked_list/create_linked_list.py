@@ -36,9 +36,9 @@ if __name__ == '__main__':
             break
         else:
             obj.create_linked_list(num)
-    print("\n **************Single Linked List***************\n")
+    print("\n ************** Single Linked List ***************\n")
     obj.display()
 
-# ----------------Written By : - Aditya Pratap Singh ------------------
+# ---------------- Written By : - Aditya Pratap Singh ------------------
 
 
